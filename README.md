@@ -1,5 +1,13 @@
 # Smart Journaling Project
 
+### Role
+
+1.	Login / User Registration, User Class creation and Data Storage -- LI YUCHEN
+2.	Welcome Page and Summary Page -- YANG YUTING
+3.	Journal Page -- LI ZHAOZIYU
+4.	Weather Value Extraction -- MENG HANYUE
+5.	Mood Classification Value Extraction -- CHEN YUHAN
+
 ## 1. Project Mission
 
 To design and develop a "Smart Journaling" application that empowers users to improve emotional awareness and foster personal reflection. By leveraging API-driven data enrichment (weather and sentiment analysis), the project aims to provide a smart, accessible platform that helps users understand emotional patterns and promotes mental well-being, aligning with SDG 3 (Good Health and Well-being).
